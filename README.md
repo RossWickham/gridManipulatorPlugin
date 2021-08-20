@@ -1,1 +1,1 @@
-# wat-plugin-grid-manipulate
+# gridManipulatorPlugin
